@@ -50,8 +50,8 @@ LocalStorage (for recent search history)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/weather-predictor.git
-cd weather-predictor
+git clone https://github.com/Vishnu12222344/Weather_dashboard/weather-predictor.git
+cd weather-dashboard
 
 2️⃣ Install Dependencies
 
